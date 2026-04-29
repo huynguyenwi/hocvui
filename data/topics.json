@@ -1,0 +1,42 @@
+[
+  {
+    "id": "topic_0",
+    "subjectId": "s1",
+    "grade": 1,
+    "name": "Phép Cộng & Trừ (Phạm vi 10)",
+    "theory": "Học sinh làm quen với các phép toán cộng và trừ cơ bản trong phạm vi số từ 0 đến 10. Đây là nền tảng quan trọng cho tư duy toán học.",
+    "example": "Ví dụ: 3 cộng 2 bằng 5; 7 trừ 4 bằng 3."
+  },
+  {
+    "id": "topic_1",
+    "subjectId": "s1",
+    "grade": 2,
+    "name": "Bảng Nhân 2 và 5",
+    "theory": "Bảng nhân là công cụ giúp tính toán nhanh các nhóm đồ vật lặp lại tương ứng.",
+    "example": "Ví dụ: 2 x 3 = 6 (có 3 nhóm, mỗi nhóm 2 cái)."
+  },
+  {
+    "id": "topic_2",
+    "subjectId": "s2",
+    "grade": 1,
+    "name": "Âm và Chữ Cái Tiếng Việt",
+    "theory": "Bảng chữ cái tiếng Việt gồm các chữ cái đơn và các dấu thanh cơ bản để ghép thành tiếng.",
+    "example": "Các chữ: a, b, c, d... Dấu thanh: huyền, sắc, hỏi, ngã, nặng."
+  },
+  {
+    "id": "topic_3",
+    "subjectId": "s3",
+    "grade": 1,
+    "name": "Greetings & Introduction",
+    "theory": "Learn how to say hello and introduce yourself nicely in English.",
+    "example": "Ex: 'Hello, my name is Huy. Nice to meet you!'"
+  },
+  {
+    "id": "topic_4",
+    "subjectId": "s3",
+    "grade": 6,
+    "name": "Present Simple Tense",
+    "theory": "The present simple tense is used to describe facts or habits.",
+    "example": "Ex: 'He plays football every day.'"
+  }
+]

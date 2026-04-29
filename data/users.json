@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "$2b$10$pi1qQwxMD9Xxtm8.NHriP.ci8rGrJwWjuo2kzL0nIBEpJzr3I84.G",
+    "role": "admin",
+    "score": 0
+  },
+  {
+    "id": "2",
+    "username": "huynguyen",
+    "password": "$2b$10$amzFfsU6M6DcL01Jw9KhJO4svOhCZp99ySJ2LtJRV1EnfKiNgtn.G",
+    "role": "admin",
+    "score": 100
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "q_topic_0_0",
+    "topicId": "topic_0",
+    "question": "1 + 4 bằng mấy?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Khi thêm 4 đơn vị vào 1 ta được kết quả là 5."
+  },
+  {
+    "id": "q_topic_0_1",
+    "topicId": "topic_0",
+    "question": "8 - 3 bằng mấy?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Khi lấy 8 bớt đi 3 đơn vị ta còn lại 5."
+  },
+  {
+    "id": "q_topic_0_2",
+    "topicId": "topic_0",
+    "question": "Số nào lớn hơn 5 nhưng nhỏ hơn 7?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Số 6 là số nằm duy nhất giữa 5 và 7 trong tập hợp số tự nhiên."
+  },
+  {
+    "id": "q_topic_0_3",
+    "topicId": "topic_0",
+    "question": "Có 3 quả táo, mẹ cho thêm 2 quả nữa. Hỏi có tất cả mấy quả?",
+    "options": [
+      "4 quả",
+      "5 quả",
+      "6 quả",
+      "3 quả"
+    ],
+    "correctAnswer": "5 quả",
+    "explanation": "Phép tính: 3 + 2 = 5 quả táo."
+  },
+  {
+    "id": "q_topic_1_0",
+    "topicId": "topic_1",
+    "question": "2 x 5 bằng bao nhiêu?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "15"
+    ],
+    "correctAnswer": "10",
+    "explanation": "Theo bảng nhân 2: 2 x 5 = 10."
+  },
+  {
+    "id": "q_topic_1_1",
+    "topicId": "topic_1",
+    "question": "5 x 4 bằng bao nhiêu?",
+    "options": [
+      "9",
+      "20",
+      "25",
+      "15"
+    ],
+    "correctAnswer": "20",
+    "explanation": "Theo bảng nhân 5: 5 x 4 = 20."
+  },
+  {
+    "id": "q_topic_1_2",
+    "topicId": "topic_1",
+    "question": "2 x 9 bằng bao nhiêu?",
+    "options": [
+      "18",
+      "16",
+      "20",
+      "14"
+    ],
+    "correctAnswer": "18",
+    "explanation": "Theo bảng nhân 2: 2 x 9 = 18."
+  },
+  {
+    "id": "q_topic_2_0",
+    "topicId": "topic_2",
+    "question": "Chữ cái nào bắt đầu từ 'Con cá'?",
+    "options": [
+      "k",
+      "c",
+      "q",
+      "t"
+    ],
+    "correctAnswer": "c",
+    "explanation": "Tiếng 'cá' bắt đầu bằng âm 'c'."
+  },
+  {
+    "id": "q_topic_2_1",
+    "topicId": "topic_2",
+    "question": "Trong từ 'mẹ', dấu thanh là dấu gì?",
+    "options": [
+      "Sắc",
+      "Huyền",
+      "Nặng",
+      "Hỏi"
+    ],
+    "correctAnswer": "Nặng",
+    "explanation": "Dấu nặng nằm phía dưới chữ cái âm chính."
+  },
+  {
+    "id": "q_topic_2_2",
+    "topicId": "topic_2",
+    "question": "Từ nào có chứa âm 'a'?",
+    "options": [
+      "Bàn",
+      "Bút",
+      "Cây",
+      "Mưa"
+    ],
+    "correctAnswer": "Bàn",
+    "explanation": "Từ 'Bàn' có âm 'a' ở giữa (B-a-n)."
+  },
+  {
+    "id": "q_topic_3_0",
+    "topicId": "topic_3",
+    "question": "How do you answer to 'How are you?'",
+    "options": [
+      "I am late",
+      "I am fine, thank you",
+      "I am ten",
+      "Hello"
+    ],
+    "correctAnswer": "I am fine, thank you",
+    "explanation": "This is the most common way to respond to a health wellness check."
+  },
+  {
+    "id": "q_topic_3_1",
+    "topicId": "topic_3",
+    "question": "Which one is a greeting?",
+    "options": [
+      "Goodbye",
+      "Morning",
+      "Hello",
+      "Night"
+    ],
+    "correctAnswer": "Hello",
+    "explanation": "Hello is a standard greeting when meeting someone."
+  },
+  {
+    "id": "q_topic_4_0",
+    "topicId": "topic_4",
+    "question": "He ___ football on Sundays.",
+    "options": [
+      "play",
+      "playing",
+      "plays",
+      "played"
+    ],
+    "correctAnswer": "plays",
+    "explanation": "With 3rd person singular subjects (He/She/It), add -s or -es to the verb."
+  },
+  {
+    "id": "q_topic_4_1",
+    "topicId": "topic_4",
+    "question": "They ___ like spicy food.",
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "aren't"
+    ],
+    "correctAnswer": "don't",
+    "explanation": "Use 'don't' for plural subjects in negative present simple sentences."
+  }
+]

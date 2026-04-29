@@ -1,0 +1,17 @@
+[
+  {
+    "id": "s1",
+    "name": "Toán Học",
+    "level": "primary"
+  },
+  {
+    "id": "s2",
+    "name": "Tiếng Việt",
+    "level": "primary"
+  },
+  {
+    "id": "s3",
+    "name": "Tiếng Anh",
+    "level": "primary"
+  }
+]
